@@ -1,0 +1,33 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.product-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.product-card:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.product-title {
+    font-size: 20px;
+    color: #333;
+}
+
+.product-description {
+    color: #666;
+}
+
+.product-price {
+    font-size: 18px;
+    color: #2a9d8f;
+}
